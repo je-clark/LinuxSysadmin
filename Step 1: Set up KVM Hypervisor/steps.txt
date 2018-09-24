@@ -1,0 +1,10 @@
+Followed Fedora documentation to set up virtualization:
+
+https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/index.html
+
+installed all the libvirtd stuff
+will use Virtual Machine Manager to create/manage all VMs
+
+To claim victory, I'm going to kick off a CentOS VM, install Cockpit on it, and ensure I can reach it from the host OS.
+
+Important to note that KVM is running on the host machine as a type 2 hypervisor.
